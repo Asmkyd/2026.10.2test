@@ -1,0 +1,20 @@
+# 编译产物
+*.class
+out/
+bin/
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse / VS Code
+.classpath
+.project
+.settings/
+.vscode/
+
+# 系统文件
+Thumbs.db
+Desktop.ini
+.DS_Store
